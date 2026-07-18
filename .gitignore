@@ -5,3 +5,9 @@ dist/
 .vercel/
 .env*
 *.log
+.claude/
+.agents/
+.codex/
+.cursor/
+.gemini/
+.impeccable/
